@@ -1,0 +1,16 @@
+.expanderStyle {
+	border: 2px solid red;
+	margin: 1px;
+	width: 500px;
+}
+
+.expanderStyle>.title {
+	background-color: blue;
+	color: white;
+	padding: .1em .3em;
+	cursor: pointer;
+}
+
+.expanderStyle>.body {
+	padding: .1em .3em;
+}
